@@ -1,0 +1,166 @@
+.maincontainer {
+	background-image:url("../media/background.png");
+	background-size:contain;
+	background-repeat:no-repeat;
+	background-position:center;
+	
+}
+
+body {
+	
+	color:#cbaa91;
+	font-family: 'Roboto', sans;
+
+}
+h2 {
+	font-size:1.3em;
+	color:#805733;
+}
+
+.infocell {
+
+	font-size:0.9em;
+	font-weight:100;
+	overflow-y:auto;
+}
+
+.infocell_small {
+
+	font-size:0.5em;
+	font-weight:100;
+}
+
+a {
+	
+	color:#d17e17;
+	font-size:1.4em;
+	line-height:2.1em;
+	font-weight:300;
+}
+
+.small_a a {
+		font-size:0.85em;
+}
+a:hover {
+	
+	color:#546772;
+	
+}
+
+.grid-x {
+	overflow:auto;
+
+}
+
+.footer {
+	font-size:0.8em;
+	line-height:1em;
+	height:20px;
+	position:absolute;
+	bottom:2px;
+	left:8.4%;
+
+}
+
+.footer a {
+	
+	font-size:1em;
+
+}
+
+
+
+.footer_small {
+		font-size:0.55em;
+	line-height:0.55em;
+	height:20px;
+	position:absolute;
+	bottom:2px;
+ 
+	
+	
+}
+.footer_small a {
+	
+	font-size:1em;
+}
+
+.footer a:hover {
+	
+	color:#d17e17;
+}
+
+.footer_small a:hover , a:active, a:focus, a:visited{
+	
+	color:#d17e17;
+}
+
+.button{
+	background-color:transparent;
+	color:#d17e17;
+	font-size:1.4em;
+	line-height:1.4em;
+	font-weight:300;
+	padding:0;
+}
+.button:hover , .button:active{
+	background-color:transparent;
+	color:#546772;
+	
+}
+.button:visited, .button:focus {
+	background-color:transparent;
+	color:#d17e17;
+	
+}
+.footer .button {
+	line-height:0.8em;
+	font-size:1em;
+	margin-bottom:1px;
+	border:0;
+}
+
+.footer_small .small_button {
+	line-height:1em;
+	font-size: 1em;
+	margin-bottom:1px;
+	border:0;
+	color:#d17e17;
+}
+
+.footer_small .small_button:hover {
+
+	color:#d17e17;
+}
+
+.footer .button:hover , .button:active{
+	background-color:transparent;
+	color:#d17e17;
+	
+}
+
+.reveal {
+	
+	background-color:#000201;
+	border-color:#d17e17;
+	padding:50px;
+}
+
+.reveal p{
+	font-family:'Roboto', sans;
+	font-size:1.4em;
+	color:#cbaa91;
+	font-weight:300;
+	text-align:left;
+}
+
+.reveal p a{
+
+	font-size:0.9em;
+	color:#d17e17;
+}
+
+.mediacell {
+	text-align:center;
+	
+}
